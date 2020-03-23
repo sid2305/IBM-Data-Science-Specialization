@@ -1,0 +1,9 @@
+1.) Which topic did you choose to apply the data science methodology to? I choose credit card transactions as my topic to apply data science methodology.
+
+2.) There were 25,800 cases of digital fraud in a year resulting in the theft of nearly 2 billion rupees. And it is likely that the rate of frauds will increase further with the adaptation of the digital era. So can we automatically detect fraudulent transactions and prevent them from happening using data science?
+
+3.) 1. Analytic approach - The aim is to analyze different patterns, features, and similarities among all the past fraud credit card transactions. Appropriate pattern studies will then help in classifying the fraud transaction and predicting if the new transaction is fraud or not.  
+2. Data Requirements - Huge amount of data from online transactions will be needed to figure out the patterns and some common features in fraud transactions.  
+3. Data Collection: The data can be collected from a bank and payment gateway owners.  
+4. Data Understanding and preparation: The data cleaning will be done by minimising the attributes and dimension of the data. Graphs and visualizations can be used to analyze and understand the dataset and to figure out the patterns for the fraudulent transactions.  
+5. Modeling and Evaluation: Appropriate Machine Learning algorithms will be used to create a model according to the dataset. I will divide the dataset into training and testing data to create an efficient model. Evaluation after testing and feedback from the testers will be used to increase the accuracy of the model.
